@@ -27,7 +27,7 @@
 
 ---
 
-### :open_book: My Languages and tools:
+### :open_book: My languages and tools:
 
 <div>
   
