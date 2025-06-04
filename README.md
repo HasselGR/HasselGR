@@ -19,9 +19,9 @@
 
 ### :man_technologist: About Me:
 
--Student-wise I'm a Computer Science student currently pursuing my Bachelor's degree at Universidad de Oriente, I'm on my last term before doing my thesis and being a graduate.
+-Student-wise I'm a Computer Science student currently expecting my Engineer's Degree.
 
--Work-wise I have been a Front-End developer for over a year, where React is my strong suit. I've developed both SPAs with React and web browser extensions.
+-Work-wise I have been a Full-Stack developer for over a year, where React And Laravel are my strong suits. I've developed both SPAs with React and web browser extensions. And diverse features based on user stories in Laravel.
 
 -Me-wise I'm a person who is deeply engaged with innovation and a defender that in every team that we work we must feel heard, valued, and most of all, we must feel like humans
 
